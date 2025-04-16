@@ -56,7 +56,9 @@ pip install -r requirements.txt
 ```
 ### 3. Run the Jupyter Notebooks (in order)
 data_preparation.ipynb
+
 correlation_finding.ipynb
+
 bitcoin_price_prediction.ipynb
 
 ## Requirements
