@@ -1,3 +1,6 @@
+[![Owner](https://img.shields.io/badge/Owner-stoyanvalchev-emeraldgreen)](https://github.com/stoyanvalchev)
+[![Owner](https://img.shields.io/badge/Owner-zarkobeats-emeraldgreen)](https://github.com/zarkobeats)
+
 # 📈 Bitcoin Price Prediction & Influencer Correlation
 
 This project explores the relationship between social media influence and Bitcoin price movements using data science and machine learning. We analyze Twitter sentiment from key cryptocurrency influencers alongside historical Bitcoin data and technical indicators to build predictive models.
